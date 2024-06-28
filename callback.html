@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>OAuth Callback</title>
+  <script>
+    // Parse the URL query string
+    function getQueryParams() {
+      const params = {};
+      window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str, key, value) {
+        params[key] = value;
+      });
+      return params;
+    }
+
+    const params = getQueryParams();
+
+    // Store the token in local storage
+    if (params.token) {
+      localStorage.setItem('netlify-cms-user', JSON.stringify({ token: params.token }));
+      window.location.href = '/admin';
+    }
+  </script>
+</head>
+<body>
+</body>
+</html>
