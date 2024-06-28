@@ -24,7 +24,7 @@ email: "your-email@example.com"
 description: "Jekyll Resume / CV / vCard / Portfolio / Personal template"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mckarcher.in" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
