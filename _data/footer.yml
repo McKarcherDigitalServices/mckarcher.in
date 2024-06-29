@@ -5,14 +5,14 @@
 
 main:
   social:
-    - title: "Pinterest"
-      icon: "fab fa-pinterest"
+    - title: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://dribbble.com/"  
+    - title: "Facebook"
+      icon: "fab fa-facebook-f"
       url: "https://www.pinterest.com/"
     - title: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/"
-    - title: "Dribbble"
-      icon: "fab fa-dribbble"
-      url: "https://dribbble.com/"
-  text1: "E: alejandroa@gmail.com"
-  text2: "T: +1 (234) 567 80 98"
+  text1: "contact@mckarcher.in"
+  text2: "support@mckarcher.in"
