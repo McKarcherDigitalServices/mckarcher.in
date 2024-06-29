@@ -3,7 +3,7 @@ backend:
   repo: McKarcherDigitalServices/www
   branch: master
   auth_type: implicit
-  app_id: Ov23librKAhBefKErvs4
+  client_id: Ov23liL3Rd4eAvJMOjw2
   base_url: https://api.netlify.com
   auth_endpoint: oauth/authorize
 
