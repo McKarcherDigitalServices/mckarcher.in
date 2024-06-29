@@ -1,7 +1,7 @@
 
 
 backend:
-  name: test-repo
+  name: git-gateway
   repo: McKarcherDigitalServices/mckarcher.in
   app_id: Ov23liL3Rd4eAvJMOjw2
   base_url: https://api.netlify.com
