@@ -12,39 +12,39 @@ started:
 
 ### Started Personal
 started-personal:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, We are <strong>MCKARCHER</strong>, Shopify and <br />Custom Web Apps Based in Goa."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "We code cool <strong>websites</strong>"
+    - "We develop <strong>mobile apps</strong>"
+    - "We love <strong>Shopify</strong>"
   image: "assets/img/man.jpg"
   
 ### Started Image
 started-image:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, We are <strong>MCKARCHER</strong>, Shopify and <br />Custom Web Apps Based in Goa."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "We code cool <strong>websites</strong>"
+    - "We develop <strong>mobile apps</strong>"
+    - "We love <strong>Shopify</strong>"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Video
 started-video:
-  title: "Welcome <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, We are <strong>MCKARCHER</strong>, Shopify and <br />Custom Web Apps Based in Goa."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "We code cool <strong>websites</strong>"
+    - "We develop <strong>mobile apps</strong>"
+    - "We love <strong>Shopify</strong>"
   video: "https://youtu.be/S4L8T2kFFck"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Slider
 started-slider:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, We are <strong>MCKARCHER</strong>, Shopify and <br />Custom Web Apps Based in Goa."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "We code cool <strong>websites</strong>"
+    - "We develop <strong>mobile apps</strong>"
+    - "We love <strong>Shopify</strong>"
   images:
     - "assets/img/started_image.jpg"
     - "assets/img/started_image2.jpg"
